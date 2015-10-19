@@ -1,0 +1,54 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+  
+# Site settings
+title: "Pastiche of life"
+description: > # this means to ignore newlines until "email:"
+   Random inspirations.
+
+email: vas.karthik@gmail.com
+#blog logo
+logo: "/assets/images/logo.png"
+# blog cover
+cover: "/assets/images/background_image.jpg"
+
+name: 'Karthik Manickavasakam'
+author: 'Karthik Manickavasakam'
+author_image: "/assets/images/author.png"
+
+paginate:	5
+
+url: "http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+#twitter_handle: '@dirkfabisch'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+
+  - icon:	facebook
+    url:	https://facebook.com/vas.karthik
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+#  - icon:	github
+#    url:	https://github.com/dirkfabisch
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

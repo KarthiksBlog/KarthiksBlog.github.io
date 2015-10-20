@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 2"
-date:   2015-10-20 12:55:00
+date:   2015-10-20 12:11:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 Today I have called him to take me out. I have never been out with any guy alone. This is all new for me.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 8"
-date:   2015-10-20 12:55:00
+date:   2015-10-20 12:05:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 May be it was too much coffee all of a sudden. He had to leave to Mumbai for a workshop. His face was literally down on the ground. "Aww you are so cute! Just go Sachin! Nothing is gonna happen in a month". He then smiled. 

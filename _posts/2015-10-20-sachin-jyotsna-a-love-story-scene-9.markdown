@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 9"
-date:   2015-10-20 12:55:00
+date:   2015-10-20 12:04:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 Distances bring people closer! Mumbai isn't far from Chennai, atleast not after so much technological and scientific advancements. But it is far enough to bring Jyotsna closer. 

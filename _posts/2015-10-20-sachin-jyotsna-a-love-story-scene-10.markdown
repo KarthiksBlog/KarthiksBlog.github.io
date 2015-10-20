@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 10"
-date:   2015-10-20 12:55:00
+date:   2015-10-20 12:03:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 I must have told him long back. At least I must have told him in person. I saved the story to be told and laughed at, together. Not for this. I didn't hear from him after the day I mailed him what happened on my birthday. 

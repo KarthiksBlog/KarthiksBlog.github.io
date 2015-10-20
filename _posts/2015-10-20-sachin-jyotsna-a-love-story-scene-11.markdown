@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 11"
-date:   2015-10-20 12:55:00
+date:   2015-10-20 12:02:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 I had a girl friend during my graduation days. Things were so beautiful between us, until the day we both confessed the love to each other. The later part of that love story had the following words: expectations, desperation, longing, depression, insanity, emotional black mailing, and lastly "break up". 

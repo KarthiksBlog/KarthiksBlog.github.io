@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 6"
-date:   2015-10-20 12:55:00
+date:   2015-10-20 12:07:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 I wore red for a reason. I know he likes the color. Best part about him is, when he likes somebody wearing red, he openly acknowledges the person right in front of them. "I like the color. It looks good on you.", I remember him telling Shweta. 

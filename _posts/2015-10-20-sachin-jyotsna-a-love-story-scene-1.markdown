@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 1"
-date:   2015-10-20 05:35:00
+date:   2015-10-20 12:12:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 I am standing in front of the God. Last time I stood like this, i remember it was for clearing my classical physics theory. This time the subject is chemistry, which is totally missing between us.

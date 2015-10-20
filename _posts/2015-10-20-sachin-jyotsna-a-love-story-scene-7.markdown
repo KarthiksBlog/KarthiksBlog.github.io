@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 7"
-date:   2015-10-20 12:55:00
+date:   2015-10-20 12:06:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 When magic happens, there is attention. People sleep until then, but become hyper active all of a sudden! More than the gravity I had over her, we both pulled people's eyes over us. We can only pretend that we are different people with different coffee mugs each time. Factually, the more we pretended, the more obvious it became! 

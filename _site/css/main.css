@@ -233,7 +233,6 @@ body {
     letter-spacing: -2px;
     outline: 0;
     line-height: 50px;
-    word-break: break-word;
     color: #333; }
   .blog-header .blog-description {
     margin: 0 0 20px;
@@ -290,6 +289,7 @@ body {
       color: #666665; }
     .content article .post-meta {
       font-size: 14px;
+      word-wrap: break-word;
       color: #b3b3b1;
       line-height: 30px; }
       .content article .post-meta a {

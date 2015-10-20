@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 5"
-date:   2015-10-20 12:55:00
+date:   2015-10-20 12:08:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 I missed my alarm. As usual! But Thiru didn't! Thiru won't. "Ende Bhaagyam!!" I used to say to myself, wherever I wonder Thiru is my Room-mate. And he is best in waking me from sleep,. "Well, he is second best, he is only after my mom." It's Monday!!!!

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sachin Jyotsna, a love story - scene 12"
-date:   2015-10-20 12:55:00
+date:   2015-10-20 12:01:00
 categories: stories
-tags: featured
+tags: regular
 image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
 ---
 He dropped me at central. It's a long journey. "Sothappidaadha chellame", he said with puppy face. I gave him a hug and said " same to you chellame!". Train started to move. I was getting nervous. Sachin's parents are difficult ones. They were always strict at him. More than how my parents accept him, his parents should accept me. That's how it works here in south India. 

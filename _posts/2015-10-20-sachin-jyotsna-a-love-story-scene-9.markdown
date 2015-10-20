@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Sachin Jyotsna, a love story - scene 9"
+date:   2015-10-20 12:55:00
+categories: stories
+tags: featured
+image: /assets/article_images/2015-10-20-sachin-jyotsna-a-love-story/cover.jpg
+---
+Distances bring people closer! Mumbai isn't far from Chennai, atleast not after so much technological and scientific advancements. But it is far enough to bring Jyotsna closer. 
+
+There is another part. Mumbai has Roshan. Roshan is more than a friend. He is a part of me. There is a part of me, who will be alive only when Roshan is along. We are partners in crime. Way back, our PJs used to kill people like a slow pharmaceutical drug. He works as a guitarist for a few bands in Mumbai! 
+
+When God gives so many good things at same time, he sets up a difficult task of managing them together. "Roshan shouldn't know about Jyotsna." Way back, I used to hit on many girls. I had so many love stories and then there was Roshan in every climax of it. When we were just 16 years old, he told me "Machaan, I am pretty sure its love! Age isn't a barrier. Have you seen Titanic? Leo is also younger to Kate. But look at their chemistry! Go tell her". That was first time, a girl ever slapped me. She was the girl next door, who was 2 years elder to me and who teaching me calculus privately.
+
+The most deadly one I remember was during my UG days. August is deadly month for all boys carrying both friendship day and Raksha Bandhan each year. After being friendzoned on first week of august and bro-zoned on third week, Roshan had asked me to still give a card to Archana on her birthday, in last week of august. I had asked another friend of mine, Sameer, to buy a card for me, since he lived next to Archie's. It's yet another occasion where my friend's laziness screwed my day. Sameer had brought a card, which had words written from a girl's perspective. Roshan showered his evil words, "Sachin, this card has some purpose for its existence. I think there is still some way in which you can give it to her". His philosophies tested my IQ and I did find a way to give her. I gift wrapped the card without signing it, with a text over it "happy birthday dear. This gift contains something which is for someone special in your life" thinking that she would undersign it and give it back to me someday. Two weeks later, in second week of September, Sameer got the same card on his birthday undersigned by Archana. 
+
+It was too difficult for me to manage replying Jyotsna's emails and also meeting Roshan every day. But I wanted to do both. One Saturday night, he was performing along with a Jazz band in a pub. He had invited me for the same. I saw some fake faces, trying to understand Jazz but still act like they are enjoying. I heard a lot of "Arey! Kya baat hai bhaai". Those guys were brilliant. At the end, Roshan took over the mike and said, "this is for my friend Sachin." They then performed Raja sir's RumBumBum improvised in their own style. Later we ate. We are foodies. When we get together, we eat food like partners Sehwag and Gambhir used to score runs for India. It was getting late. I wanted to go back and reply Jyotsna. Roshan caught me straight. "Ponnaa?". I was speechless for a moment and later Roshan heard everything about Jyotsna. In some random conversation, he asked me, " by the way, when is her birthday?". I didn't know her birthday. Shame on me. 
+
+I came back to room and wrote my letter. I told her about concert and asked her about her birth date. Next day, as soon as I woke up I checked my inbox. She had replied. I felt sick. "I didn't screw up just any day of her. I have screwed up the plans on her birthday." I realised. I felt bad. I couldn't reply to her. Guilt made me sicker. I rushed to meet Roshan for breakfast. Talked to him. Felt a little better. And then, Roshan took it over. "I understand you guys are in good terms and you don't want complications here. But why should she call you out on her birthday in first place?" That made me think. "It's louuu my bwoyyy" 
+
+Have you seen tom and jerry? The episode where jerry used to hit on a girly mouse? Jerry used to have two parts of his mind personified as angel and devil who will be little Jerrys in green and Red flying over his head? Roshan is my red devil. "Feb 14 is here. Aren't you planning anything machaa?" 
+
+Like always, he made me plan a surprise. Yes, I am taking an off! Flying to Chennai for a day. Don't tell her. Shhhhhh!!

@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5510cade-4768-491a-a09f-dd59b8a265df" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.sass" afterPath="$PROJECT_DIR$/css/main.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-10.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-11.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-12.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-2.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-3.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-4.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-5.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-6.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-7.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-8.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-9.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
@@ -29,83 +37,133 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-3.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-3.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.56" vertical-offset="0" max-vertical-offset="1080">
-              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state vertical-scroll-proportion="-15.1875" vertical-offset="0" max-vertical-offset="612">
+              <caret line="27" column="132" selection-start-line="27" selection-start-column="132" selection-end-line="27" selection-end-column="132" />
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.sass" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/main.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24827586" vertical-offset="648" max-vertical-offset="11034">
-              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
-              <folding />
-            </state>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="feed.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feed.xml">
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-4.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-4.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.125" vertical-offset="0" max-vertical-offset="954">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5517242" vertical-offset="0" max-vertical-offset="1818">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-5.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-5.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2413793" vertical-offset="0" max-vertical-offset="1152">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="18" />
+            <state vertical-scroll-proportion="-19.125" vertical-offset="0" max-vertical-offset="720">
+              <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.8965516" vertical-offset="1502" max-vertical-offset="2214">
-              <caret line="96" column="73" selection-start-line="96" selection-start-column="70" selection-end-line="96" selection-end-column="73" />
-              <folding />
-            </state>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-6.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-6.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="558">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-14.625" vertical-offset="0" max-vertical-offset="576">
+              <caret line="26" column="93" selection-start-line="26" selection-start-column="93" selection-end-line="26" selection-end-column="93" />
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="javascripts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/javascripts.html">
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-7.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-7.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="864">
-              <caret line="3" column="109" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
+            <state vertical-scroll-proportion="-15.75" vertical-offset="0" max-vertical-offset="612">
+              <caret line="28" column="184" selection-start-line="28" selection-start-column="184" selection-end-line="28" selection-end-column="184" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-8.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-8.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.90625" vertical-offset="159" max-vertical-offset="936">
+              <caret line="46" column="279" selection-start-line="46" selection-start-column="279" selection-end-line="46" selection-end-column="279" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-9.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-9.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.375" vertical-offset="0" max-vertical-offset="504">
+              <caret line="22" column="120" selection-start-line="22" selection-start-column="120" selection-end-line="22" selection-end-column="120" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-10.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-10.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.0625" vertical-offset="0" max-vertical-offset="846">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-11.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-11.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.90625" vertical-offset="537" max-vertical-offset="1314">
+              <caret line="67" column="194" selection-start-line="67" selection-start-column="194" selection-end-line="67" selection-end-column="194" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-10-20-sachin-jyotsna-a-love-story-scene-12.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-12.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.2" vertical-offset="0" max-vertical-offset="1008">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -121,6 +179,17 @@
         <option value="$PROJECT_DIR$/_posts/2014-08-29-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_includes/javascripts.html" />
         <option value="$PROJECT_DIR$/css/main.sass" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-2.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-3.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-4.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-5.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-6.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-7.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-8.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-9.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-10.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-11.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-12.markdown" />
       </list>
     </option>
   </component>
@@ -539,10 +608,131 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24827586" vertical-offset="648" max-vertical-offset="11034">
+        <state vertical-scroll-proportion="-7.2" vertical-offset="648" max-vertical-offset="11034">
           <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-2.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.625" vertical-offset="0" max-vertical-offset="594">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-3.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.1875" vertical-offset="0" max-vertical-offset="612">
+          <caret line="27" column="132" selection-start-line="27" selection-start-column="132" selection-end-line="27" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-4.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.125" vertical-offset="0" max-vertical-offset="954">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-5.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.125" vertical-offset="0" max-vertical-offset="720">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-6.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.625" vertical-offset="0" max-vertical-offset="576">
+          <caret line="26" column="93" selection-start-line="26" selection-start-column="93" selection-end-line="26" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-7.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.75" vertical-offset="0" max-vertical-offset="612">
+          <caret line="28" column="184" selection-start-line="28" selection-start-column="184" selection-end-line="28" selection-end-column="184" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-8.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.90625" vertical-offset="159" max-vertical-offset="936">
+          <caret line="46" column="279" selection-start-line="46" selection-start-column="279" selection-end-line="46" selection-end-column="279" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-9.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.375" vertical-offset="0" max-vertical-offset="504">
+          <caret line="22" column="120" selection-start-line="22" selection-start-column="120" selection-end-line="22" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-10.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.0625" vertical-offset="0" max-vertical-offset="846">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-11.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.90625" vertical-offset="537" max-vertical-offset="1314">
+          <caret line="67" column="194" selection-start-line="67" selection-start-column="194" selection-end-line="67" selection-end-column="194" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-20-sachin-jyotsna-a-love-story-scene-12.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2" vertical-offset="0" max-vertical-offset="1008">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
